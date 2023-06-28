@@ -4,5 +4,6 @@ jobs:
   build:
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
     with:
-      GITHUB_TOKEN: ${{ github.token }}
       REF_NAME: $${{github.ref_name}}
+    secrets:
+      GH_TOKEN: ${{ github.token }}
