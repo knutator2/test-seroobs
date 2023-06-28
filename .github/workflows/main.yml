@@ -3,3 +3,5 @@ on: workflow_dispatch
 jobs:
   build:
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
+    with:
+      GITHUB_TOKEN: ${{ github.token }}
