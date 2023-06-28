@@ -5,4 +5,4 @@ jobs:
     runs-on: ubuntu-latest
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
     secrets:
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
