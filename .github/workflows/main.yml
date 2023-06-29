@@ -3,5 +3,3 @@ on: workflow_dispatch
 jobs:
   build:
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
-    with:
-      REF_NAME: $${{github.ref_name}}
