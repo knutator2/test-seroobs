@@ -5,3 +5,4 @@ jobs:
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
     secrets:
       GH_TOKEN: ${{secrets.GH_TOKEN}}
+      OPENCODE_TOKEN: ${{secrets.OPENCODE_TOKEN}}
