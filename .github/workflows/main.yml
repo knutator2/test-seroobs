@@ -3,6 +3,9 @@ on: workflow_dispatch
 jobs:
   build:
     uses: robert-koch-institut/OpenData-Workflows/.github/workflows/OpenData_Workflows.yml@main
+    inputs:
+      OPENCODE_GROUPID: 4116
+      OPENCODE_ACCESS_USER: knutperseke
     secrets:
       GH_TOKEN: ${{secrets.GH_TOKEN}}
       OPENCODE_TOKEN: ${{secrets.OPENCODE_TOKEN}}
