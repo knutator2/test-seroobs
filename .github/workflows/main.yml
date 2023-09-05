@@ -11,9 +11,9 @@ jobs:
     with:
       OPENCODE_GROUPID: 4116
       OPENCODE_ACCESS_USER: knutperseke
+      GOVDATA_DESTINATION_REPO: knutator2/Metadaten_Test
     secrets:
       GH_TOKEN: ${{secrets.GH_TOKEN}}
       OPENCODE_TOKEN: ${{secrets.OPENCODE_TOKEN}}
       NFDI4HEALTH_CLIENT_ID: ${{secrets.NFDI4HEALTH_CLIENT_ID}}
       NFDI4HEALTH_CLIENT_SECRET: ${{secrets.NFDI4HEALTH_CLIENT_SECRET}}
-      GOVDATA_DESTINATION_REPO: knutator2/Metadaten_Test
