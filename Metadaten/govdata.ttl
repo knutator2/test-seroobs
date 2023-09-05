@@ -30,7 +30,7 @@
                   dcat:theme    <http://publications.europa.eu/resource/authority/data-theme/HEAL>,
                                 <http://publications.europa.eu/resource/authority/data-theme/SOCI>,
                                 <http://publications.europa.eu/resource/authority/data-theme/TECH>;
-                  dcat:keyword "SARS-CoV-2","Infektion","Infections","Serum","Immune Sera","Immunseren","Viral Antibodies","Virusantikoerper","Seroprävalenz","Seroprevalence","Seroepidemiologische Studien","Seroepidemiologic Studies","RKI","Germany","Deutschland","Gesundheitsberichterstattung","Epidemiologie","Public health surveillance","Epidemiology";
+                  dcat:keyword "SARS-CoV-2","Infektion","Infecns","Serum","Immune Sera","Immunseren","Viral Antibodies","Virusantikoerper","Seroprävalenz","Seroprevalence","Seroepidemiologische Studien","Seroepidemiologic Studies","RKI","Germany","Deutschland","Gesundheitsberichterstattung","Epidemiologie","Public health surveillance","Epidemiology";
                   dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0>;
                   dcat:distribution [
                     a dcat:Distribution ;
