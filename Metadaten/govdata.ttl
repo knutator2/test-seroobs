@@ -36,7 +36,7 @@
                     a dcat:Distribution ;
                     dcatde:licenseAttributionByText "Neuhauser, Hannelore et. al. (2023): Observatorium serologischer Studien zu SARS-CoV-2 in Deutschland, Berlin: Zenodo. DOI:10.5281/zenodo.7043025" ;
                     dcatde:plannedAvailability <http://dcat-ap.de/def/plannedAvailability/stable> ;
-                    dct:description "GitHub ist eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
+                    dct:description "st eine soziales Netzwerk und Plattform, die es ermöglicht, Code-Repositories und Datensätze zu hosten, zu verwalten und zu teilen. Es bietet eine Vielzahl von Funktionen wie Versionskontrolle, Fehlerverfolgung, Zusammenarbeit und Teammanagement. GitHub ist eine der bekanntesten und am häufigsten verwendeten Plattformen für die gemeinsame Entwicklung von Software und Code, insbesondere für Open-Source-Projekte.";
                     dct:language <http://publications.europa.eu/resource/authority/language/DEU> ;
                     dct:license <http://dcat-ap.de/def/licenses/cc-by/4.0> ;
                     dct:title "Github - Observatorium serologischer Studien zu SARS-CoV-2 in Deutschland" ;
