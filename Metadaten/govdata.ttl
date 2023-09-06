@@ -19,7 +19,7 @@
                   ] ;
                   dct:title "Observatorium serologischer Studien zu SARS-CoV-2 in Deutschland" ;
                    dcat:contactPoint [ a vcard:Organization ;
-                        vcard:fn "Robert Koch-Institut | Open Data Projektteam" ;
+                        vcard:fn "Robert Koch-Institut | Open Data Projekteam" ;
                         vcard:hasCountryName "Deutschland" ;
                         vcard:hasEmail "opendata@rki.de";
                         vcard:hasLocality "Berlin" ;
